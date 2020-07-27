@@ -1,0 +1,35 @@
+ .cadre{ 
+  border:20px solid #46e438;
+  display:flex;
+  align-items: center; 
+  background-color: rgba(216, 165, 45, 0.658);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1{
+    color: rgb(169, 16, 216);
+    font-size: 3em;
+  
+  }
+
+  h2{
+    color: rgb(102, 61, 184);
+  }
+
+h2:hover{
+    color: rgb(32, 28, 230);
+  }
+
+  ul{
+    font-family: cursive;
+    border : 1px solid green;
+    box-shadow:6px 6px 0px green;
+  }
+
+  img{
+  border: 3px solid navy;
+  box-shadow: 3px 3px 3px purple;
+  }
+  div{
+    flex-direction: column; 
+  }
